@@ -1,3 +1,5 @@
 hello.txt
 hello for now
 this should be added by the second push, but this part is the third push
+
+extra merged text
